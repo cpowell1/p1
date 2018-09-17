@@ -4,6 +4,8 @@
 
 	<title>Hello World</title>
 	<meta charset='utf-8'>
+	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
 		
 </head>
 <body>
