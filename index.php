@@ -1,3 +1,5 @@
+<?php require('quotes-logic.php'); ?>
+
 <!doctype html>
 <html>
 <head>
