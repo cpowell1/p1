@@ -1,7 +1,6 @@
 <?php require('quotes-logic.php'); ?>
-
 <!doctype html>
-<html>
+<html lang="en">
 <head>
 
 	<title>Hello World</title>

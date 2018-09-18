@@ -23,8 +23,15 @@ p {
   text-align: center;
 }
 
+.quotes {
+  background-color: #e3e3e3;
+  text-align: center;
+  padding: 20px 10px 20px 10px;
+}
+
 @media (min-width: 800px) {
   img {
     width: 40%;
   }
 }
+
