@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 
-	<title>Hello World</title>
+	<title>Christian Powell | Project 1</title>
 	<meta charset='utf-8'>
 	<link href="https://fonts.googleapis.com/css?family=Noto+Serif+JP" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="style.css">
